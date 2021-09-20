@@ -33,3 +33,19 @@ Adapun beberapa fitur yang sudah saya buat dalam aplikasi ini antara lain :
 > Kamu tidak perlu memasukan database ataupun setting apapun didalam config codeigniter
 > Karna aplikasi ini sudah disetting secara otomatis dan ini aplikasi gratis
 > Kami sangat senang jika anda mau berkontribusi dalam mengembangkan aplikasi ini
+
+
+## :sparkling_heart: Support the project
+
+Halo ini aplikasi saya bagikan gratis untuk para junior programmer sebagai sarana belajar dan pengembangan aplikasi desktop berbasis web, oleh karna itu bantu dan dukung saya untuk terus berkarya dengan berdonasi seikhlasnya.
+
+Untuk konfirmasi donasi seikhlasnya bisa transfer  ke rekening bank saya :
+
+<b>
+7140603613<br>
+Bank Mandiri Syariah<br>
+A/n Nanda Krisbianto<br>
+</b><br>
+Thanks! :heart:
+
+---
